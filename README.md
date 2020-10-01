@@ -13,4 +13,4 @@ performing real-time facial expression recognition with webcam.
 https://www.kaggle.com/ashishpatel26/fer2018
 
 ### Example:
-<img src="ex1.png" width=700>
+<img src="images/ex1.png" width=700>
