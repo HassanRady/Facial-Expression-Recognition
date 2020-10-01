@@ -12,3 +12,5 @@ performing real-time facial expression recognition with webcam.
 ### Dataset link:
 https://www.kaggle.com/ashishpatel26/fer2018
 
+### Example:
+<img src="ex1.png" width=700>
